@@ -12,7 +12,7 @@ export default function Home() {
         <div className="sticky top-0">
           <Header />
         </div>
-        <main className="lg:max-w-[60rem] md:max-w-[40rem] mx-auto">
+        <main className="lg:max-w-[61rem] md:max-w-[40rem] mx-auto">
           <Feed />
         </main>
       </div>
